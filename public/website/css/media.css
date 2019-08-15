@@ -1,0 +1,175 @@
+@media only screen and (max-width:1024px) {}
+
+
+@media (max-width: 768px) {
+    .slider-home {
+        margin-top: 50px
+    }
+
+    footer .box-footer h4 {
+        text-align: right;
+        border-bottom: 2px solid #fff;
+        color: #ffffff;
+        padding: 5px;
+        font-size: 20px;
+        display: inline-block;
+    }
+    .contaict-us-page .top-addr .title-addr p {
+        font-size: 14px;
+    }
+    .contaict-us-page .top-addr .box-1 {
+        height: 140px;
+    }
+    .contaict-us-page .top-addr .box-1 .img-addr img {
+        width: 40px;
+        height: 40px;
+    }
+    .contaict-us-page .top-addr .box-1 .tr-b{
+        width: 85%;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 575.98px) {
+    .slider-home {
+        margin-top: 50px
+    }
+
+    .title-div .hid h3 {
+        font-size: 18px;
+    }
+
+    .title-div .hid {
+        width: 100px;
+        height: 45px;
+    }
+
+    .skw {
+        width: 100px;
+        height: 45px;
+    }
+
+    .service .box-service .title-serv h3 {
+        font-size: 30px
+    }
+
+    .gro {
+        overflow: hidden;
+    }
+
+    .gro .containt {
+        padding: 20px 0;
+        width: auto;
+    }
+
+    .gro .ovr {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #ececeeb3;
+        display: block;
+    }
+
+    .gro .containt h3 {
+        font-size: 15px
+    }
+
+    .gro .containt p {
+        font-size: 13px
+    }
+
+    .gro .containt h3,
+    .gro .containt h4 {
+        margin: 0;
+    }
+
+    footer .bot-fot ul li img {
+        width: 35px;
+    }
+
+    .br-cpanel-wrapper .br-cpanel,
+    .box-1 img,
+    .box-2 img {
+        display: none
+    }
+
+    .add h5 {
+        z-index: 9999;
+        font-size: 15px
+    }
+
+    .subsc {
+        padding: 100px 0;
+    }
+
+    .subsc input {
+        width: 85%;
+    }
+
+    /* .about-us .aboutst {
+        margin: 120px auto 0;
+    } */
+    .box-top {
+        margin: 50px auto
+    }
+
+    .bar-hed h3,
+    .bar-hed .compress,
+    .bar-hed .rig {
+        font-size: 20px
+    }
+
+    .bar-hed .minus {
+        width: 60px;
+    }
+
+    .features .box-features {
+        height: 150px;
+    }
+
+    .service .box-service {
+        height: 130px;
+        width: 75%;
+    }
+
+    .contaict-box-form {
+        width: 100%;
+        margin: auto;
+    }
+    .contaict-us {
+        padding: 0;
+    }
+    .contaict-us-page .top-addr .box-1 .tr-a,
+    .contaict-us-page .top-addr .box-1 .tr-b,
+    .contaict-us-page .top-addr .box-1 .tr-c{
+        transform: skew(0);
+        display: none
+    }
+    .contaict-us-page .top-addr {
+        display: block;
+    }
+    .contaict-us-page .top-addr .box-1 {
+        background-image: linear-gradient(to top, #069fcd 0%, #0c4a55 100%);
+        height: 88px;
+        border-radius: 20px;
+    }
+    .contaict-box-form-page {
+        max-width: 260px;
+        margin: auto;
+    }
+    .top-slidpage h3 {
+        color: #fff;
+        position: absolute;
+        bottom: 60px;
+        right: 126px;
+        font-weight: bold;
+        font-size: 21px;
+    }
+}
