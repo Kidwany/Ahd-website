@@ -87,7 +87,7 @@
                 <div class="col-md-6 arab_dir">
                     <div class="box box-primary">
                         <div class="box-header with-border">
-                            <h3 class="box-title">أضف بيانات الصورة</h3>
+                            <h3 class="box-title">أضف بيانات الخدمة</h3>
                         </div>
                         <!-- .box-header -->
                         <!-- form start -->
